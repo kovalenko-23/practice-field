@@ -1,0 +1,1 @@
+{"version":3,"sources":["sass/_example.scss"],"names":[],"mappings":"AAAA,WACE,gBAAA,CACA,eAAA,CACA,iBAAA,CACA,eAAA,CACA","file":"src.e5797fc4.css","sourceRoot":"../src","sourcesContent":[".container {\n  margin-left: 50px;\n  font-size: large;\n  font-style: italic;\n  font-weight: 500;\n  color: green;\n}\n"]}
